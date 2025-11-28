@@ -1,0 +1,47 @@
+{
+  "build": "haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\LENOVO\\.conda\\pkgs\\ca-certificates-2025.11.4-haa95532_0",
+  "files": [
+    "Library/ssl/cacert.pem",
+    "Library/ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2025.11.4-haa95532_0.conda",
+  "license": "MPL-2.0",
+  "link": {
+    "source": "C:\\Users\\LENOVO\\.conda\\pkgs\\ca-certificates-2025.11.4-haa95532_0",
+    "type": 1
+  },
+  "md5": "4334b57f16e8db7cbb13362f35033757",
+  "name": "ca-certificates",
+  "package_tarball_full_path": "C:\\Users\\LENOVO\\.conda\\pkgs\\ca-certificates-2025.11.4-haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/ssl/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "8ac40bdd3d3e151a6b4078d2b2029796e8f843e3f86fbf2adbc4dd9f05e79def",
+        "sha256_in_prefix": "8ac40bdd3d3e151a6b4078d2b2029796e8f843e3f86fbf2adbc4dd9f05e79def",
+        "size_in_bytes": 230814
+      },
+      {
+        "_path": "Library/ssl/cert.pem",
+        "path_type": "hardlink",
+        "sha256": "8ac40bdd3d3e151a6b4078d2b2029796e8f843e3f86fbf2adbc4dd9f05e79def",
+        "sha256_in_prefix": "8ac40bdd3d3e151a6b4078d2b2029796e8f843e3f86fbf2adbc4dd9f05e79def",
+        "size_in_bytes": 230814
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bd84dd7ae232de4abffdb1966fc8726ff34820cae17929c7b9f85bc6d0e6ac3a",
+  "size": 131441,
+  "subdir": "win-64",
+  "timestamp": 1762269571000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2025.11.4-haa95532_0.conda",
+  "version": "2025.11.4"
+}
