@@ -1,0 +1,368 @@
+[2025-11-28 13:21:47,093 ] comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+[2025-11-28 13:21:47,094 ] comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:21:47,094 ] comtypes.client._code_cache - INFO - Writing __init__.py file: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen\__init__.py'
+[2025-11-28 13:21:47,108 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:21:47,139 ] comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+[2025-11-28 13:21:47,144 ] comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+[2025-11-28 13:21:47,245 ] comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+[2025-11-28 13:21:47,263 ] comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+[2025-11-28 13:21:47,264 ] comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+[2025-11-28 13:21:47,274 ] comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+[2025-11-28 13:22:45,124 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:22:45,124 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:28:41,729 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:28:41,729 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:28:55,208 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:28:55,208 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:38:40,788 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:38:40,788 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:39:07,274 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:39:07,274 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:49:22,380 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:49:22,403 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:49:43,427 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:49:43,427 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:51:10,852 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:51:10,852 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:51:59,015 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:51:59,015 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 13:52:10,965 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 13:52:10,965 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:06:27,950 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:06:27,950 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:25:58,690 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:25:58,712 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:26:30,476 ] root - INFO - 
+[2025-11-28 14:27:20,685 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:27:20,685 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:29:15,916 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:29:15,916 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:31:53,173 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:31:53,173 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:37:41,182 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:37:41,183 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:39:13,227 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:39:13,228 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:39:32,928 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:39:32,928 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:40:55,510 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:40:55,510 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:41:43,321 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:41:43,321 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:42:04,544 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:42:04,545 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:48:50,681 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:48:50,681 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:49:01,523 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:49:01,523 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:49:25,186 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:49:25,186 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:56:19,885 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:56:19,886 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:56:41,128 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:56:41,129 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:58:01,279 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:58:01,280 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 14:59:03,214 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 14:59:03,215 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:14:20,757 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:14:20,757 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:21:14,284 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:21:14,284 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:21:33,942 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:21:33,942 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:21:59,650 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:21:59,650 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:22:29,271 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:22:29,271 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:22:45,282 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:22:45,282 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:24:35,197 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:24:35,197 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:29:44,507 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:29:44,538 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:32:06,453 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:32:06,453 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:33:47,854 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:33:47,854 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:39:55,961 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:39:55,961 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:42:19,069 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:42:19,069 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:45:24,901 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:45:24,902 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:46:38,065 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:46:38,065 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:48:27,686 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:48:27,686 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:50:16,776 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:50:16,776 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:51:46,295 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:51:46,295 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:54:29,671 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:54:29,671 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 15:56:19,434 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 15:56:19,434 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 16:08:57,305 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 16:08:57,333 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-28 18:42:01,673 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-28 18:42:01,673 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 11:52:57,780 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 11:52:57,817 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 11:54:17,744 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 11:54:17,744 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 11:55:10,907 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 11:55:10,907 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:07:30,945 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:07:30,966 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:10:45,340 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:10:45,340 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:11:00,615 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:11:00,615 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:13:28,521 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:13:28,521 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:16:40,125 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:16:40,148 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:20:27,314 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:20:27,314 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:21:19,721 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:21:19,721 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:30:39,189 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:30:39,189 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:31:35,018 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:31:35,018 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:32:49,813 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:32:49,813 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:33:02,968 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:33:02,968 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:49:35,533 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:49:35,534 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-29 12:49:53,253 ] root - INFO - User asked for a unsupported command. 
+[2025-11-29 12:50:08,907 ] root - INFO - User asked for a unsupported command. 
+[2025-11-29 12:50:23,221 ] root - INFO - User asked for a unsupported command. 
+[2025-11-29 12:51:13,987 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 12:51:13,987 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:24:10,597 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 01:24:10,641 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:24:28,012 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:24:35,748 ] root - INFO - user asked for assistant's name.
+[2025-11-30 01:24:42,781 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:24:51,180 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:24:59,964 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:25:09,256 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:25:18,493 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:25:31,008 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:25:57,507 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 01:25:57,508 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:26:13,524 ] root - INFO - User requested to open Google.
+[2025-11-30 01:26:26,242 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:26:34,966 ] root - INFO - 
+[2025-11-30 01:26:43,210 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:26:56,574 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:27:09,705 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:27:35,854 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 01:27:35,854 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:27:59,266 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:28:07,555 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:28:15,162 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:28:23,866 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:28:32,195 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:28:54,906 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 01:28:54,906 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:29:27,256 ] root - INFO - User requested to open Google.
+[2025-11-30 01:29:36,883 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:29:49,908 ] root - INFO - 
+[2025-11-30 01:29:58,263 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:30:06,799 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:32:11,395 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 01:32:11,396 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 01:32:26,758 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:32:34,580 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:32:43,302 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:33:00,118 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:33:06,627 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:33:12,643 ] root - INFO - User requested to open Notepad.
+[2025-11-30 01:33:20,633 ] root - INFO - 
+[2025-11-30 01:33:28,308 ] root - INFO - User requested to open Google.
+[2025-11-30 01:33:37,599 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:33:48,527 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:34:14,499 ] root - INFO - user asked for assistant's name.
+[2025-11-30 01:34:20,840 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:34:26,497 ] root - INFO - User requested to open Notepad.
+[2025-11-30 01:34:33,969 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:34:41,001 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 01:34:48,918 ] root - INFO - 
+[2025-11-30 15:29:33,022 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:29:33,052 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:29:45,316 ] root - INFO - User Exited the program. 
+[2025-11-30 15:39:48,229 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:39:48,252 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:41:42,133 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:41:42,133 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:42:57,138 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:42:57,138 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:43:20,262 ] root - INFO - User requested to open Google.
+[2025-11-30 15:43:31,969 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:43:37,567 ] root - INFO - User requested to open Notepad.
+[2025-11-30 15:43:45,163 ] root - INFO - User requested to open the calculator
+[2025-11-30 15:43:57,427 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:44:05,230 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:44:27,736 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:44:34,699 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:44:46,283 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:44:49,487 ] root - INFO - User Exited the program. 
+[2025-11-30 15:55:44,494 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:55:44,522 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:57:09,664 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:57:09,664 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:57:25,436 ] root - INFO - User requested to open Command prompt.
+[2025-11-30 15:57:35,032 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:57:40,832 ] root - INFO - User Exited the program. 
+[2025-11-30 15:59:18,164 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 15:59:18,164 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 15:59:33,309 ] root - INFO - User requested to open Command prompt.
+[2025-11-30 15:59:42,271 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:59:49,501 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 15:59:56,673 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:00:03,445 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:00:07,097 ] root - INFO - User Exited the program. 
+[2025-11-30 16:01:28,330 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 16:01:28,331 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 16:01:42,288 ] root - INFO - User requested to open Command prompt.
+[2025-11-30 16:01:49,795 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:01:56,965 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:02:06,657 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:02:13,160 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:02:20,536 ] root - INFO - 
+[2025-11-30 16:02:23,678 ] root - INFO - User Exited the program. 
+[2025-11-30 16:11:08,109 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 16:11:08,109 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 16:11:25,277 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:11:33,074 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:11:43,073 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:11:46,863 ] root - INFO - User Exited the program. 
+[2025-11-30 16:21:52,057 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 16:21:52,057 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 16:22:13,678 ] root - INFO - User requested to open Facebook.
+[2025-11-30 16:22:23,835 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:22:32,130 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:22:41,426 ] root - INFO - User requested a joke.
+[2025-11-30 16:22:46,034 ] root - INFO - User Exited the program. 
+[2025-11-30 16:23:03,919 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 16:23:03,953 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 16:23:22,805 ] root - INFO - User requested to search on YouTube.
+[2025-11-30 16:23:33,637 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:23:47,715 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:24:01,717 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:24:10,563 ] root - INFO - 
+[2025-11-30 16:24:20,032 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:24:23,337 ] root - INFO - User Exited the program. 
+[2025-11-30 16:28:00,217 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 16:28:00,218 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 16:28:16,619 ] root - INFO - User requested to open LinkedIn.
+[2025-11-30 16:28:29,710 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:28:36,227 ] root - INFO - User requested to open Facebook.
+[2025-11-30 16:28:44,269 ] root - INFO - User requested to open GitHub.
+[2025-11-30 16:28:53,870 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:29:00,831 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:29:07,631 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 16:29:18,839 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 17:06:01,345 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 17:06:01,363 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 17:06:15,088 ] root - INFO - Playing music: groovy-vibe-427121.mp3
+[2025-11-30 17:07:07,940 ] root - INFO - Playing music: deep-abstract-ambient_snowcap-401656.mp3
+[2025-11-30 17:07:24,518 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 17:07:31,236 ] root - INFO - Playing music: hype-drill-music-438398.mp3
+[2025-11-30 17:07:39,961 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 17:07:51,086 ] root - INFO - Playing music: deep-abstract-ambient_snowcap-401656.mp3
+[2025-11-30 17:08:01,511 ] root - INFO - Playing music: deep-abstract-ambient_snowcap-401656.mp3
+[2025-11-30 17:08:07,432 ] root - INFO - User Exited the program. 
+[2025-11-30 17:09:27,993 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 17:09:27,993 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 17:10:18,814 ] root - INFO - User requested information from Wikipedia.
+[2025-11-30 17:10:47,965 ] root - INFO - User requested information from Wikipedia.
+[2025-11-30 17:10:56,244 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 17:11:32,659 ] root - INFO - User requested information from Wikipedia.
+[2025-11-30 17:12:05,118 ] root - INFO - User requested information from Wikipedia.
+[2025-11-30 17:12:12,431 ] root - INFO - 
+[2025-11-30 17:12:17,535 ] root - INFO - User Exited the program. 
+[2025-11-30 17:13:19,999 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 17:13:20,027 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 17:13:40,579 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 17:14:30,570 ] root - INFO - User requested information from Wikipedia.
+[2025-11-30 17:14:33,922 ] root - INFO - User Exited the program. 
+[2025-11-30 23:51:42,327 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 23:51:42,331 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 23:52:10,567 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:52:44,722 ] root - INFO - 
+[2025-11-30 23:52:55,468 ] root - INFO - User requested to open Facebook.
+[2025-11-30 23:53:09,074 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:53:20,458 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:53:29,460 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:53:38,499 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:53:47,783 ] root - INFO - User requested to open Command prompt.
+[2025-11-30 23:53:59,268 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:54:05,128 ] root - INFO - Playing music: hype-drill-music-438398.mp3
+[2025-11-30 23:54:16,784 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:54:25,848 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:54:32,479 ] root - INFO - Playing music: deep-abstract-ambient_snowcap-401656.mp3
+[2025-11-30 23:54:41,862 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:54:52,190 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:54:56,931 ] root - INFO - User Exited the program. 
+[2025-11-30 23:58:16,892 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 23:58:16,921 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-11-30 23:58:35,686 ] root - INFO - Playing music: hype-drill-music-438398.mp3
+[2025-11-30 23:58:44,358 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:58:49,829 ] root - INFO - Playing music: hype-drill-music-438398.mp3
+[2025-11-30 23:58:58,499 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:59:06,964 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:59:16,698 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:59:26,220 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:59:34,515 ] root - INFO - User asked for a unsupported command. 
+[2025-11-30 23:59:37,874 ] root - INFO - User Exited the program. 
+[2025-12-01 00:03:44,958 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-01 00:03:44,958 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-12-01 00:04:50,141 ] root - INFO - User requested information from Wikipedia.
+[2025-12-01 00:05:03,158 ] root - INFO - 
+[2025-12-01 00:05:07,439 ] root - INFO - User Exited the program. 
+[2025-12-01 00:06:58,899 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-01 00:06:58,899 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-12-01 00:07:20,163 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:08:01,424 ] root - INFO - User requested information from Wikipedia.
+[2025-12-01 00:08:10,918 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:08:38,037 ] root - INFO - User requested information from Wikipedia.
+[2025-12-01 00:08:48,044 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:08:59,750 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:09:13,702 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:09:25,013 ] root - INFO - User asked for a unsupported command. 
+[2025-12-01 00:09:30,840 ] root - INFO - User Exited the program. 
+[2025-12-01 00:37:44,432 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-01 00:37:44,458 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-12-01 00:39:13,483 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-01 00:39:13,484 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-12-01 00:39:50,599 ] root - INFO - User asked for others question
+[2025-12-01 00:40:11,598 ] root - INFO - User asked for others question
+[2025-12-01 00:40:39,840 ] root - INFO - User asked for others question
+[2025-12-01 00:41:22,439 ] root - INFO - User asked for others question
+[2025-12-01 00:41:54,469 ] root - INFO - User asked for others question
+[2025-12-01 00:42:03,852 ] root - INFO - 
+[2025-12-01 00:42:35,320 ] root - INFO - User asked for others question
+[2025-12-01 00:42:50,904 ] root - INFO - User asked for others question
+[2025-12-01 00:43:04,755 ] root - INFO - User asked for others question
+[2025-12-01 00:43:14,541 ] root - INFO - 
+[2025-12-01 00:43:27,163 ] root - INFO - User asked for others question
+[2025-12-01 00:44:05,700 ] root - INFO - User asked for others question
+[2025-12-01 00:44:18,246 ] root - INFO - User asked for others question
+[2025-12-01 00:44:39,013 ] root - INFO - User asked for others question
+[2025-12-01 00:44:54,347 ] root - INFO - User asked for others question
+[2025-12-01 00:44:57,576 ] root - INFO - User Exited the program. 
+[2025-12-01 00:47:05,990 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'G:\\Bootcamp\\JARVIS-Voice-Assistant-system\\JARVIS_Voice_Assistant_system\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-12-01 00:47:06,027 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'G:\Bootcamp\JARVIS-Voice-Assistant-system\JARVIS_Voice_Assistant_system\jarvis\Lib\site-packages\comtypes\gen'
+[2025-12-01 00:48:01,895 ] root - INFO - User asked for others question
+[2025-12-01 00:48:14,451 ] root - INFO - User asked for others question
+[2025-12-01 00:48:26,361 ] root - INFO - User asked for others question
+[2025-12-01 00:48:37,622 ] root - INFO - User asked for others question
+[2025-12-01 00:48:47,680 ] root - INFO - User asked for others question
+[2025-12-01 00:48:59,497 ] root - INFO - User asked for others question
+[2025-12-01 00:49:27,043 ] root - INFO - User asked for others question
+[2025-12-01 00:49:30,721 ] root - INFO - User Exited the program. 
